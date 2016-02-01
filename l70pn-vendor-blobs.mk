@@ -23,3 +23,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/l70pn/proprietary/etc/ACDB/Headset_cal.acdb:system/etc/ACDB/Headset_cal.acdb \
     vendor/lge/l70pn/proprietary/etc/ACDB/Speaker_cal.acdb:system/etc/ACDB/Speaker_cal.acdb \
     vendor/lge/l70pn/proprietary/etc/ACDB/workspaceFile.qwsp:system/etc/ACDB/workspaceFile.qwsp \
+	vendor/lge/l70pn/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so
